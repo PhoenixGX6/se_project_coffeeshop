@@ -31,9 +31,19 @@
   font-size: 20px;
   line-height: 30px;
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  margin: 24px 0 0;
+}
+
+.recipes__iframe {
+  width: 480px;
+  height: 270px;
+  display: block;
+  border: none;
 }

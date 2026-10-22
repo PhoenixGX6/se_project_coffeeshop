@@ -24,7 +24,7 @@
   border: none;
   padding: 20px 0;
   margin-bottom: 32px;
-  background-color: #1878DC; 
+  background-color: #1878dc;
   color: #fff;
   transition: background-color 0.5s;
   cursor: pointer;
@@ -44,6 +44,8 @@
   display: flex;
   gap: 12px;
   justify-content: center;
-  }
+}
 
-.form__label {display: block;}
+.form__label {
+  display: block;
+}
